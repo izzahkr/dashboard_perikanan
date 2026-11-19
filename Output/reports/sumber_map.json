@@ -1,0 +1,22 @@
+{
+  "produksi_ton": {
+    "label": "Produksi Budidaya (ton)",
+    "sumber": "https://opendata.jatimprov.go.id/dataset/jumlah-produksi-perikanan-budidaya-berdasarkan-jenis-budidaya"
+  },
+  "rtp": {
+    "label": "RTP / Perusahaan Perikanan",
+    "sumber": "https://opendata.jatimprov.go.id/dataset/jumlah-rtp-rumah-tangga-perikanan--perusahaan-perikanan-pp-berdasarkan-jenis-budidaya"
+  },
+  "luas_lahan_ha": {
+    "label": "Luas Lahan Budidaya (ha)",
+    "sumber": "https://opendata.jatimprov.go.id/dataset/luas-bersih-lahan-perikanan-budidaya-berdasarkan-jenis-budidaya"
+  },
+  "pembudidaya": {
+    "label": "Jumlah Pembudidaya Ikan",
+    "sumber": "https://portaldata.kkp.go.id/portals/data-statistik/budidaya_ikan/summary"
+  },
+  "total_pembesaran": {
+    "label": "Total Produksi Pembesaran (ton)",
+    "sumber": "https://portaldata.kkp.go.id/datainsight/produksi-ikan-budidaya"
+  }
+}

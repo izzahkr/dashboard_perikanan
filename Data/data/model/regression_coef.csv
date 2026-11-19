@@ -1,0 +1,4 @@
+dataset,model_terbaik,use_log,CV_R2,gap_train_cv,RMSE_test,catatan,coef_per_+1_unit,interpretasi
+Nilai vs Volume (Log-Winsorized),Ridge,True,0.4952,0.0039,1.8629,Model utama log-log: elastisitas nilai vs volume,0.790234,Elastisitas: +1% x_volume_ton -> +0.79% y_nilai_rp_juta
+Produksi vs RTP (Log-Winsorized),Lasso,True,0.3145,0.0094,2.2741,Model pendukung log-log: elastisitas produksi vs RTP,0.837763,Elastisitas: +1% x_rtp -> +0.84% y_produksi_ton
+Nilai vs Volume (Raw-Simple),LinearRegression,False,0.1781,0.0238,87760.0328,Pembanding: tanpa log,16.649022,

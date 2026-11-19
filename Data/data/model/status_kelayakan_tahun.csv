@@ -1,0 +1,7 @@
+tahun,n_kab,ratio_kab,ok_kab,n_metrik_lengkap,n_metrik_total,ok_metrik,layak_model
+2020,38,1.0,True,4,5,True,True
+2021,38,1.0,True,4,5,True,True
+2022,38,1.0,True,4,5,True,True
+2023,38,1.0,True,5,5,True,True
+2024,38,1.0,True,4,5,True,True
+2025,31,0.816,False,1,5,False,False

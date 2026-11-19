@@ -1,0 +1,7 @@
+{
+  "insights": [
+    "**Nilai vs Volume (Log-Winsorized)** — model: **Ridge**. CV R² = 0.495±0.066. Elastisitas: +1% x_volume_ton -> +0.79% y_nilai_rp_juta. Stabil.",
+    "**Produksi vs RTP (Log-Winsorized)** — model: **Lasso**. CV R² = 0.314±0.122. Elastisitas: +1% x_rtp -> +0.84% y_produksi_ton. Stabil.",
+    "**Nilai vs Volume (Raw-Simple)** — model: **LinearRegression**. CV R² = 0.178±0.092. Stabil."
+  ]
+}

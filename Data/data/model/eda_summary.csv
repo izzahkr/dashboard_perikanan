@@ -1,0 +1,8 @@
+dataset,n_rows,n_kab,tahun_min,tahun_max
+features_raw,221,38,2020,2025
+features_clean,221,38,2020,2025
+features_model,190,38,2020,2024
+features_model_strict,38,38,2023,2023
+reg_prod_luas,291,31,2020,2023
+reg_prod_rtp,245,31,2020,2024
+reg_nilai_volume,2323,38,2020,2024

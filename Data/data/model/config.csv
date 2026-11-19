@@ -1,0 +1,12 @@
+,value
+coverage_threshold,0.9
+metric_coverage_min,0.5
+min_metrik_lengkap,3.0
+min_samples_regression,10.0
+min_kab_clustering,10.0
+label_top_share_min,0.2
+outlier_mad_k,5.0
+outlier_iqr_k_fallback,1.5
+suspect_scale_produksi_ton,100000.0
+suspect_scale_luas_ha,100000.0
+suspect_scale_rtp,50000.0
